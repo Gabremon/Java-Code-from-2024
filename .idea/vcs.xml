@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BinaryCounter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CCI6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Counting-Sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CountingSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GraphicsProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ICA 10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ICA12-Randomized-QuickSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ICA13-Tail-Recursive-QuickSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ICA14-Bucket-Sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ICA5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InsertionSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LCS_Length" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Matrix_Multiplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MergeSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Portfolio-Website-Design" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuickSort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RandomizedSelect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestRepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwoSum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UniqueCharacters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Zelda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bubbleSort" vcs="Git" />
+  </component>
+</project>

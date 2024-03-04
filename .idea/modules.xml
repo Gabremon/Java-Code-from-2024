@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinanrySearch/BinanrySearch.iml" filepath="$PROJECT_DIR$/BinanrySearch/BinanrySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryCounter/BinaryCounter.iml" filepath="$PROJECT_DIR$/BinaryCounter/BinaryCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CC1_1-6/CC1_1-6.iml" filepath="$PROJECT_DIR$/CC1_1-6/CC1_1-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compiler Component 3/Compiler Component 3.iml" filepath="$PROJECT_DIR$/Compiler Component 3/Compiler Component 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compiler Component 4/Compiler Component 4.iml" filepath="$PROJECT_DIR$/Compiler Component 4/Compiler Component 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompilerFull/CompilerFull.iml" filepath="$PROJECT_DIR$/CompilerFull/CompilerFull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompilerPieces/CompilerPieces.iml" filepath="$PROJECT_DIR$/CompilerPieces/CompilerPieces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/CountingSort/CountingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICA 10/ICA 10.iml" filepath="$PROJECT_DIR$/ICA 10/ICA 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICA12-Randomized-QuickSort/ICA12-Randomized-QuickSort.iml" filepath="$PROJECT_DIR$/ICA12-Randomized-QuickSort/ICA12-Randomized-QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICA13-Tail-Recursive-QuickSort/ICA13-Tail-Recursive-QuickSort.iml" filepath="$PROJECT_DIR$/ICA13-Tail-Recursive-QuickSort/ICA13-Tail-Recursive-QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICA14-Bucket-Sort/ICA14-Bucket-Sort.iml" filepath="$PROJECT_DIR$/ICA14-Bucket-Sort/ICA14-Bucket-Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICA5/ICA5.iml" filepath="$PROJECT_DIR$/ICA5/ICA5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LCS_Length/LCS_Length.iml" filepath="$PROJECT_DIR$/LCS_Length/LCS_Length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode Folder.iml" filepath="$PROJECT_DIR$/Leetcode Folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix_Multiplication/Matrix_Multiplication.iml" filepath="$PROJECT_DIR$/Matrix_Multiplication/Matrix_Multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Racing Game/Racing Game.iml" filepath="$PROJECT_DIR$/Racing Game/Racing Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomizedSelect/RandomizedSelect.iml" filepath="$PROJECT_DIR$/RandomizedSelect/RandomizedSelect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoSum/TwoSum.iml" filepath="$PROJECT_DIR$/TwoSum/TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniqueCharacters/UniqueCharacters.iml" filepath="$PROJECT_DIR$/UniqueCharacters/UniqueCharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubbleSort/bubbleSort.iml" filepath="$PROJECT_DIR$/bubbleSort/bubbleSort.iml" />
+    </modules>
+  </component>
+</project>
